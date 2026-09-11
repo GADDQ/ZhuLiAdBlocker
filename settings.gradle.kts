@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Xposed Example"
+rootProject.name = "住理生活广告屏蔽"
 
 include(":app")

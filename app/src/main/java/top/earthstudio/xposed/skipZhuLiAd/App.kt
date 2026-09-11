@@ -1,4 +1,4 @@
-package io.github.libxposed.example
+package top.earthstudio.xposed.skipZhuLiAd
 
 import android.app.Application
 import io.github.libxposed.service.XposedService
@@ -7,7 +7,6 @@ import java.util.concurrent.CopyOnWriteArraySet
 import kotlin.concurrent.Volatile
 
 class App : Application(), XposedServiceHelper.OnServiceListener {
-
 
     companion object {
         @Volatile

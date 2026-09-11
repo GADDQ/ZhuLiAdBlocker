@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "io.github.libxposed.example"
+    namespace = "top.earthstudio.xposed.skipZhuLiAd"
     compileSdk = 37
     buildToolsVersion = "37.0.0"
 

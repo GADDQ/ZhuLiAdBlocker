@@ -3,18 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:name=".App"
-        android:description="@android:string/unknownName"
-        android:label="Xposed Example"
+        android:name="top.earthstudio.xposed.skipZhuLiAd.App"
+        android:description="@string/module_description"
+        android:label="住理生活广告屏蔽"
         android:theme="@android:style/Theme.DeviceDefault"
         tools:ignore="MissingApplicationIcon">
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
     </application>
 </manifest>
