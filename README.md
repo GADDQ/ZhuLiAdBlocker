@@ -4,3 +4,5 @@
 libxposed api 102 module
 
 请使用较新版本的 LSPosed 进行加载！LSPlant 及 Fork 版本不受支持！
+
+当前兼容应用版本：3.11.51+
