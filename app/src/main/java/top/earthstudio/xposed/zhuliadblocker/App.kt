@@ -1,4 +1,4 @@
-package top.earthstudio.xposed.skipZhuLiAd
+package top.earthstudio.xposed.zhuliadblocker
 
 import android.app.Application
 import io.github.libxposed.service.XposedService

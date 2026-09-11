@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:name="top.earthstudio.xposed.skipZhuLiAd.App"
+        android:name="top.earthstudio.xposed.zhuliadblocker.App"
         android:description="@string/module_description"
         android:label="住理生活广告屏蔽"
         android:theme="@android:style/Theme.DeviceDefault"

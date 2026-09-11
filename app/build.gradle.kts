@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "top.earthstudio.xposed.skipZhuLiAd"
+    namespace = "top.earthstudio.xposed.zhuliadblocker"
     compileSdk = 37
     buildToolsVersion = "37.0.0"
 
